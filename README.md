@@ -8,6 +8,7 @@ Sou o José Tarcisio Fernandes Souza <strong>(Tarcisio)</strong>!
 📖 Aprendendo e criando projetos com as seguintes tecnologias:
 <br><br>
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 
@@ -22,6 +23,20 @@ Sou o José Tarcisio Fernandes Souza <strong>(Tarcisio)</strong>!
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+
+<br> <br> <br> <br> 
+
+  
+<h2>👨‍💻 Minha stack em desenvolvimento</h2>
+
+<p>
+➜ Desenvolvimento de interfaces modernas e responsivas com React <br>
+➜ Criação de APIs com Node.js <br>
+➜ Estudo contínuo de boas práticas e arquitetura de software <br>
+➜ Foco em performance e experiência do usuário <br>
+➜ Integração entre frontend e backend
 </p>
 
 <br> 
