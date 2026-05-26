@@ -33,9 +33,9 @@ Sou o José Tarcisio Fernandes Souza <strong>(Tarcisio)</strong>!
 <br> <br> <br> <br> 
 
   
-<h2 align="center">👨‍💻 Minha Stack em Desenvolvimento</h2>
+<h2 align="left">👨‍💻 Minha Stack em Desenvolvimento</h2>
 
-<p align="center">
+<p align="left">
   ➜ Desenvolvimento de interfaces modernas e responsivas com React <br>
   ➜ Criação de APIs e aplicações backend com Node.js <br>
   ➜ Aplicação de boas práticas de desenvolvimento e código limpo (Clean Code) <br>
