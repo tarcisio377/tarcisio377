@@ -23,8 +23,12 @@ Mais importante do que a tecnologia é entender a necessidade do negócio e tran
 
 # 🌐 Conecte-se comigo:
 <br> 
-<a href="https://www.linkedin.com/in/tarcisio-fernandes-86398864/"> 
+<a href="https://www.linkedin.com/in/tarcisio-fernandes-86398864/" target="_blank"> 
   <img align="center" alt="LinkedIn" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 
+<a href="https://www.instagram.com/tarcisiofers?igsh=MW9zb2J0YTUxZHc4OA%3D%3D&utm_source=qr" target="_blank">
+  <img align="center" alt="Instagram" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">
+</a>
