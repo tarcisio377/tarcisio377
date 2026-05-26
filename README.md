@@ -2,6 +2,11 @@
   <img src="https://github.com/user-attachments/assets/bee47d77-060c-4409-af4f-8a258d9216f1" width="85%" />
 </p>
 
+AAAAAAAAAAAAAA
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bee47d77-060c-4409-af4f-8a258d9216f1" style="width: 1200px; max-width: 100%;" />
+</p>
 
 ## Olá 👋
 
