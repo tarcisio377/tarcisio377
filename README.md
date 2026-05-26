@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bee47d77-060c-4409-af4f-8a258d9216f1" width="85%" />
+</p>
 
-
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/bee47d77-060c-4409-af4f-8a258d9216f1" />
 
 ## Olá 👋
 
