@@ -15,11 +15,13 @@ Sou o José Tarcisio Fernandes Souza <strong>(Tarcisio)</strong>!
 <br> 
 <br> 
 
-# 🧠 Filosofia:
+## 💡 Filosofia:
 Programação não é apenas escrever código — é resolver problemas, aprender continuamente e gerar valor.
 Mais importante do que a tecnologia é entender a necessidade do negócio e transformar ideias em soluções reais.
 
 🚀 Apaixonado por tecnologia e evolução constante!
+
+<br>
 
 <h2>🌐 Conecte-se comigo:</h2>
 
@@ -38,7 +40,7 @@ Mais importante do que a tecnologia é entender a necessidade do negócio e tran
   src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
 </a>
 
-<a href="mailto:tarcisio-fernandes@outlook.com">
+<a href="mailto:tarcisio-fernandes@outlook.com" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="E-mail" height="30" width="40"
   src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
 </a>
