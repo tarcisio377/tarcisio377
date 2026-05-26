@@ -1,3 +1,7 @@
+
+
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/bee47d77-060c-4409-af4f-8a258d9216f1" />
+
 ## Olá 👋
 
 Sou o José Tarcisio Fernandes Souza <strong>(Tarcisio)</strong>!
@@ -29,14 +33,15 @@ Sou o José Tarcisio Fernandes Souza <strong>(Tarcisio)</strong>!
 <br> <br> <br> <br> 
 
   
-<h2>👨‍💻 Minha stack em desenvolvimento</h2>
+<h2 align="center">👨‍💻 Minha Stack em Desenvolvimento</h2>
 
-<p>
-➜ Desenvolvimento de interfaces modernas e responsivas com React <br>
-➜ Criação de APIs com Node.js <br>
-➜ Estudo contínuo de boas práticas e arquitetura de software <br>
-➜ Foco em performance e experiência do usuário <br>
-➜ Integração entre frontend e backend
+<p align="center">
+  ➜ Desenvolvimento de interfaces modernas e responsivas com React <br>
+  ➜ Criação de APIs e aplicações backend com Node.js <br>
+  ➜ Aplicação de boas práticas de desenvolvimento e código limpo (Clean Code) <br>
+  ➜ Escrita de código organizado, identado e de fácil manutenção <br>
+  ➜ Foco em performance, usabilidade e experiência do usuário <br>
+  ➜ Integração eficiente entre frontend e backend
 </p>
 
 <br> 
