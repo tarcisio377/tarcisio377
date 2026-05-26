@@ -35,24 +35,26 @@ Mais importante do que a tecnologia é entender a necessidade do negócio e tran
 
 <br>
 
-<h2>🌐 Conecte-se comigo clicando nos ícones abaixo:</h2>
+<h2 align="center">🌐 Redes & Contatos 👇</h2>
 
-<a href="https://www.linkedin.com/in/tarcisio-fernandes-86398864/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="LinkedIn" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarcisio-fernandes-86398864/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn" width="40" height="40" />
+  </a>
 
-<a href="https://www.instagram.com/tarcisiofers/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Instagram" height="30" width="40"
-  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
-</a>
+  <a href="https://www.instagram.com/tarcisiofers/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+    alt="Instagram" width="40" height="40" />
+  </a>
 
-<a href="https://wa.me/5511941578742" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="WhatsApp" height="30" width="40"
-  src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
-</a>
+  <a href="https://wa.me/5511941578742" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+    alt="WhatsApp" width="40" height="40" />
+  </a>
 
-<a href="mailto:tarcisio-fernandes@outlook.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="E-mail" height="30" width="40"
-  src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-</a>
+  <a href="mailto:tarcisio-fernandes@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+    alt="E-mail" width="40" height="40" />
+  </a>
+</p>
