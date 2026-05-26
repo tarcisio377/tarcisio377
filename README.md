@@ -24,6 +24,6 @@ Mais importante do que a tecnologia é entender a necessidade do negócio e tran
 🚀 Apaixonado por tecnologia e evolução constante!
 
 Conecte-se comigo:
-<a href="https://www.linkedin.com/in/tarcisio-fernandes-86398864/" a/>
+<a href="https://www.linkedin.com/in/tarcisio-fernandes-86398864/" </a>
 <img >
 
