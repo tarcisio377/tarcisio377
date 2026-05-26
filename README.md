@@ -1,12 +1,11 @@
 ## Olá 👋
 
 Sou o José Tarcisio Fernandes Souza <strong>(Tarcisio)</strong>!
-<br>
-
-💻 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack.
 <br><br>
 
-📖 Aprendendo e criando projetos com:
+💻 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack.
+
+📖 Aprendendo e criando projetos com as seguintes tecnologias:
 <br><br>
 
 <p align="left">
