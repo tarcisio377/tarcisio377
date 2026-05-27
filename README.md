@@ -4,7 +4,7 @@
 
 ## Olá 👋
 
-Sou o <strong>(Tarcisio)</strong>!
+Sou o <strong>Tarcisio</strong>!
 <br><br>
 
 💻 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack.
